@@ -4,5 +4,6 @@
   "description": "Make your strings engrish",
   "main": "index.js",
   "author": "Ben Junya",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/MrBenJ/engrishify"
 }
